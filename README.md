@@ -8,9 +8,9 @@ As climate change continues to impact our planet, understanding how ecosystems r
 Examine the relationship between vegetation health and rainfall in these arid regions over the course of 2023. 
 
 ## Data Sources
--**Sentinel-2 Imagery**: [Sentinel-2 User Guide](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi) 
--**CHIRPS Rainfall Data**: [CHIRPS](https://www.chc.ucsb.edu/data/chirps) 
--**Google Earth Engine**: [Google Earth Engine](https://developers.google.com/earth-engine) 
+--**Sentinel-2 Imagery**: [Sentinel-2 User Guide](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi) 
+--**CHIRPS Rainfall Data**: [CHIRPS](https://www.chc.ucsb.edu/data/chirps) 
+--**Google Earth Engine**: [Google Earth Engine](https://developers.google.com/earth-engine) 
 
 ## Methodology 
 
