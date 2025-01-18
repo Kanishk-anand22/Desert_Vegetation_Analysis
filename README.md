@@ -9,7 +9,9 @@ As climate change continues to impact our planet, understanding how ecosystems r
 ## Data Sources
 
 **Sentinel-2 Imagery**: [Sentinel-2 User Guide](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi) 
+
 **CHIRPS Rainfall Data**: [CHIRPS](https://www.chc.ucsb.edu/data/chirps) 
+
 **Google Earth Engine**: [Google Earth Engine](https://developers.google.com/earth-engine) 
 
 ## Methodology - Data collection using Google Earth Engine. - NDVI calculation from Sentinel-2 imagery. - Rainfall data extraction from CHIRPS. - Correlation analysis between NDVI and rainfall. - Visualization of trends and patterns. 
